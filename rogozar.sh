@@ -392,7 +392,7 @@ chains:
           mux.maxStreamBuffer: 4194304
     - name: node-mwss-3
       addr: $IRAN_DOMAIN:8443
-      medatada:
+      metadada:
         backup: true
       connector:
         type: relay
